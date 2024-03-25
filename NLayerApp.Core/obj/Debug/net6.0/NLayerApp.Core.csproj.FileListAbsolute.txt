@@ -1,0 +1,11 @@
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\bin\Debug\net6.0\NLayerApp.Core.deps.json
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\bin\Debug\net6.0\NLayerApp.Core.dll
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\bin\Debug\net6.0\NLayerApp.Core.pdb
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\obj\Debug\net6.0\NLayerApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\obj\Debug\net6.0\NLayerApp.Core.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\obj\Debug\net6.0\NLayerApp.Core.AssemblyInfo.cs
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\obj\Debug\net6.0\NLayerApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\obj\Debug\net6.0\NLayerApp.Core.dll
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\obj\Debug\net6.0\refint\NLayerApp.Core.dll
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\obj\Debug\net6.0\NLayerApp.Core.pdb
+C:\Users\yasar\source\repos\NLayerApp\NLayerApp.Core\obj\Debug\net6.0\ref\NLayerApp.Core.dll

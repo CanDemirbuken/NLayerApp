@@ -1,0 +1,41 @@
+﻿@model ProductDto
+@{
+    ViewData["Title"] = "Save";
+}
+
+<h1>Save Product</h1>
+<div class="row">
+    <div class="col-md-6">
+        <form asp-controller="ProductsApiToMvc" asp-action="Save" method="post">
+            <div class="form-group pt-2">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span class="text-danger" asp-validation-for="Name"></span>
+            </div>
+
+            <div class="form-group pt-2">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" />
+                <span class="text-danger" asp-validation-for="Price"></span>
+            </div>
+
+            <div class="form-group pt-2">
+                <label asp-for="Stock"></label>
+                <input asp-for="Stock" class="form-control" />
+                <span class="text-danger" asp-validation-for="Stock"></span>
+            </div>
+
+            <div class="form-group pt-2">
+                <label asp-for="CategoryId"></label>
+                <select asp-for="CategoryId" asp-items="ViewBag.categories" class="form-control">
+                    <option value="0">Select Category</option>
+                </select>
+                <span class="text-danger" asp-validation-for="CategoryId"></span>
+            </div>
+
+            <div class="form-group pt-2">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
